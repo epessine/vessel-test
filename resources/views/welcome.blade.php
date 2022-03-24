@@ -9,7 +9,7 @@
         @livewireStyles
     </head>
     <body class="antialiased">
-        <div>hello</div>
+        <livewire:container />
 
         @livewireScripts
     </body>
